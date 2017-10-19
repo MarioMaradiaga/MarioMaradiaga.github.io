@@ -95,6 +95,7 @@ p {
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
+  word-break: break-all;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
